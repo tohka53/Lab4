@@ -1,6 +1,6 @@
 # Lab4
 
-
+Codigo que se implemento 
 const express = requere('express')
 const appp = express()
 app.get('/hello:name',(req, res)=>{
